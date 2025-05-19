@@ -1,0 +1,2 @@
+- Computer: ThinkPad P16s (Fedora), Redmi Book (Windows)
+- Smartphone: Redmi Note 13, Pixel Pro 8

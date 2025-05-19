@@ -1,0 +1,10 @@
+<layout>
+  <configItem>
+    <name>tampered_de</name>
+    <shortDescription>tampered_de</shortDescription>
+    <description>Tampered German</description>
+    <languageList>
+      <iso639Id>ger</iso639Id>
+    </languageList>
+  </configItem>
+</layout>
