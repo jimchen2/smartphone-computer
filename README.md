@@ -18,5 +18,5 @@ sudo sed -i "/<layoutList>/r tampered_de.layout.xml" /usr/share/X11/xkb/rules/ev
 
 ## Userscripts
 
-- My Userscripts: [Video Sites Shortcuts Install](https://raw.githubusercontent.com/jimchen2/smartphone-computer/userscripts/master/video-sites-shortcuts.user.js) (Desktop Only), [YouTube Subtitles Install](https://raw.githubusercontent.com/jimchen2/smartphone-computer/userscripts/master/youtube-enhancer.user.js)
+- My Userscripts: [Video Sites Shortcuts Install](https://raw.githubusercontent.com/jimchen2/smartphone-computer/master/userscripts/video-sites-shortcuts.user.js) (Desktop Only), [YouTube Subtitles Install](https://raw.githubusercontent.com/jimchen2/smartphone-computer/master/userscripts/youtube-enhancer.user.js)
 - Other Userscripts: [Voice Over Translation](https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js)

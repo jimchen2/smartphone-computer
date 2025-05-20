@@ -12,7 +12,7 @@
 // @match        *://*.1tv.ru/*
 // @match        *://*.matchtv.ru/*
 // @match        file://*/*
-// @updateURL    https://raw.githubusercontent.com/jimchen2/smartphone-computer/userscripts/master/video-sites-shortcuts.user.js
+// @updateURL    https://raw.githubusercontent.com/jimchen2/smartphone-computer/master/userscripts/video-sites-shortcuts.user.js
 // @run-at       document-idle
 // ==/UserScript==
 (function () {

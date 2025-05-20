@@ -7,7 +7,7 @@
 // @author       Jim Chen
 // @homepage     https://jimchen.me
 // @match        https://*.youtube.com/*
-// @updateURL    https://raw.githubusercontent.com/jimchen2/smartphone-computer/userscripts/master/youtube-enhancer.user.js
+// @updateURL    https://raw.githubusercontent.com/jimchen2/smartphone-computer/master/userscripts/youtube-enhancer.user.js
 // @run-at       document-idle
 // ==/UserScript==
 (function () {
